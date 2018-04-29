@@ -57,7 +57,7 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 + sqft: square footage of structures or acreage of vacant lots                                
 + floors_in_building: the total number of floors in the building (may not all be part of the sale in the case of condos, retail, etc)                
 + floors_in_unit: the number of floors of the property that is for sale                     
-+ floor_of_unit: the floor of the building that the property is on (if the property is a part of a larger, multi unit structure)                     
++ floor_of_unit: the floor of the building that the property is on (if the property is a part of a larger, multi unit structure)        
 + bedrooms: number of bedrooms in the property                           
 + bathrooms: number of bathrooms in the property                          
 + parking: availability of parking at the property                            
