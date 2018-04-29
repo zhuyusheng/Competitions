@@ -38,9 +38,9 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 + current_population" .= current population of town/city 
 + population_5_years_ago: population of town/city 5 years ago                  
 + schools_in_area: number of schools in the town/city                    
-+ public_transit_score: measure of the availability of public transportation in the surrounding area (higher score corresponds to higher transportation availability)              
-+ crime_score: measure of the amount of crime in the surrounding area (higher score corresponds to higher crime rates)                  
-+ culture_score: measure of the quality of culture/lifestyle in the surrounding area (higher score corresponds to higher cultural quality)                      
++ public_transit_score: measure of the availability of public transportation in the surrounding area (higher score corresponds to higher transportation availability)
++ crime_score: measure of the amount of crime in the surrounding area (higher score corresponds to higher crime rates)                 
++ culture_score: measure of the quality of culture/lifestyle in the surrounding area (higher score corresponds to higher cultural quality)
 + average_neighborhood_price: average price of similar properties in the area                          
 
 #### Condition               
