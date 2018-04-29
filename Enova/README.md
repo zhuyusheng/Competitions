@@ -17,7 +17,7 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 
 Generel Information
 property_id: unique identifier
-zone: general property type (commercial, residential, industrial, and mixed-use)                              
+zone: general property type (commercial, residential, industrial, and mixed-use)  <br/>                             
 sub_type: more specific classification of property (restaurant, single family home, vacant lot, etc.)  
 
 Property Location
