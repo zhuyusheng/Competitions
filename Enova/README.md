@@ -1,5 +1,6 @@
 
 ### Problem Description 
+***
 
 We work for a national real estate investment company that specializes in "flipping" residential and non-residential property. In the past we have made our investment decisions based on the intuition of our researchers. To expand our operations throughout the country, we often purchase property remotely, without being able to send an agent and assess its true value. Additionally, the budget for repairs and general improvement is based on recommendations from the local contractors we hire in the area of the newly purchased property.
 
@@ -15,6 +16,7 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 
 
 ### Column List
+***
 
 #### Generel Information
 + property_id: unique identifier
@@ -79,6 +81,7 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 + final_price: the final sale price of the house after we have invested in improvements (determined by our scoring code as a function of property value and investment amount. left blank in the test data)
 
 ### Additional information
+***
 + [Enova](https://www.eventbrite.com/e/enovas-data-smackdown-competition-tickets-42684530580?utm_campaign=event_reminder&utm_medium=email&utm_source=eb_email&utm_term=eventname)
 
 
