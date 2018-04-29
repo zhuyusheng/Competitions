@@ -84,7 +84,7 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 ***
 + [Enova](https://www.eventbrite.com/e/enovas-data-smackdown-competition-tickets-42684530580?utm_campaign=event_reminder&utm_medium=email&utm_source=eb_email&utm_term=eventname)
 + Team members:
-               -[Wenbo Zhao](https://github.com/webber26232)
+  -[Wenbo Zhao](https://github.com/webber26232)
 
 
 
