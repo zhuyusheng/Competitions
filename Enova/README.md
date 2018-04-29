@@ -17,10 +17,9 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 ### Column List
 
 #### Generel Information
-property_id: unique identifier
-zone: general property type (commercial, residential, industrial, and mixed-use)
-
-sub_type: more specific classification of property (restaurant, single family home, vacant lot, etc.)  
++ property_id: unique identifier
++ zone: general property type (commercial, residential, industrial, and mixed-use)
++ sub_type: more specific classification of property (restaurant, single family home, vacant lot, etc.)  
 
 #### Property Location
 street_name"                   
