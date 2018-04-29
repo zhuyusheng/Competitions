@@ -44,39 +44,40 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 + average_neighborhood_price: average price of similar properties in the area                          
 
 #### Condition               
-damage_code: a designation of any serious damage affecting the property (fire damage, flood, mold, etc.) 
-inspection_type: the type of inspection that was conducted on the property (inspected by seller, buyer, foreclosure agent, etc)
-structural_quality_grade: the inspector's score for the condition of the structure/land        
-exterior_condition_grade: the inspector's score for the condition of the property's exterior        
-interior_condition_grade: the inspector's score for the condition of the property's interior         
-utilities_grade: the inspector's score for the condition of the utilities on/in the property (electric, water, sewage, HVAC, etc)                 
-damage_and_issue_grade: the inspector's score for any damage or miscellaneous issues found with the property
-overall_inspector_score: a overall score between 0 and 100 assigned by the inspector
++ damage_code: a designation of any serious damage affecting the property (fire damage, flood, mold, etc.) 
++ inspection_type: the type of inspection that was conducted on the property (inspected by seller, buyer, foreclosure agent, etc)
++ structural_quality_grade: the inspector's score for the condition of the structure/land        
++ exterior_condition_grade: the inspector's score for the condition of the property's exterior        
++ interior_condition_grade: the inspector's score for the condition of the property's interior         
++ utilities_grade: the inspector's score for the condition of the utilities on/in the property (electric, water, sewage, HVAC, etc)      
++ damage_and_issue_grade: the inspector's score for any damage or miscellaneous issues found with the property
++ overall_inspector_score: a overall score between 0 and 100 assigned by the inspector
 
 #### Qualities
-sqft: square footage of structures or acreage of vacant lots                                
-floors_in_building: the total number of floors in the building (may not all be part of the sale in the case of condos, retail, etc)                
-floors_in_unit: the number of floors of the property that is for sale                     
-floor_of_unit: the floor of the building that the property is on (if the property is a part of a larger, multi unit structure)                     
-bedrooms: number of bedrooms in the property                           
-bathrooms: number of bathrooms in the property                          
-parking: availability of parking at the property                            
-basement: flag representing the existence of a basement                          
-central_hvac: flag representing the existence of hvac                       
-misc_features: a designation of any important features associated with the property                     
-exterior_color: color of the structure                     
-exterior_material: building material of the structure's frame 
++ sqft: square footage of structures or acreage of vacant lots                                
++ floors_in_building: the total number of floors in the building (may not all be part of the sale in the case of condos, retail, etc)                
++ floors_in_unit: the number of floors of the property that is for sale                     
++ floor_of_unit: the floor of the building that the property is on (if the property is a part of a larger, multi unit structure)                     
++ bedrooms: number of bedrooms in the property                           
++ bathrooms: number of bathrooms in the property                          
++ parking: availability of parking at the property                            
++ basement: flag representing the existence of a basement                          
++ central_hvac: flag representing the existence of hvac                       
++ misc_features: a designation of any important features associated with the property                     
++ exterior_color: color of the structure                     
++ exterior_material: building material of the structure's frame 
 
 #### Pricing
-initial_price: the asking price for the property (assumed non-negotiable)  
-initial_value: the actual value of the property determined by our assessor (left blank in the test data)
++ initial_price: the asking price for the property (assumed non-negotiable)  
++ initial_value: the actual value of the property determined by our assessor (left blank in the test data)
 
 #### Choice Variables
-purchase_decision: a flag representing the decision to purchase a property or not (left blank in the test data)
-investment: the amount of money spent fixing damage and making general improvements to the property (left blank in the test data)
++ purchase_decision: a flag representing the decision to purchase a property or not (left blank in the test data)
++ investment: the amount of money spent fixing damage and making general improvements to the property (left blank in the test data)
 
 #### Outcome 
-final_price: the final sale price of the house after we have invested in improvements (determined by our scoring code as a function of property value and investment amount. left blank in the test data)
++ final_price: the final sale price of the house after we have invested in improvements (determined by our scoring code as a function of 
++ property value and investment amount. left blank in the test data)
 
 
 
