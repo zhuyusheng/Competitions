@@ -22,26 +22,26 @@ A helpful note: There is likely not enough time to solve this problem perfectly.
 + sub_type: more specific classification of property (restaurant, single family home, vacant lot, etc.)  
 
 #### Property Location
-street_name"                   
-street_number"                      
-address_line_2"  
-city_name"
-zip_code"                           
++ street_name"                   
++ street_number"                      
++ address_line_2"  
++ city_name"
++ zip_code"                           
 
 #### Relevant Dates                         
-days_on_market: number of days the property has been listed as for sale
-build_date: the date the property/lot was originally built or parceled 
-remodel_date: the date the property was last remodeled or improved
++ days_on_market: number of days the property has been listed as for sale
++ build_date: the date the property/lot was originally built or parceled 
++ remodel_date: the date the property was last remodeled or improved
 
 #### Neighborhood Information
-area_type: type of surrounding area (suburban, rural, or urban)
-current_population" .= current population of town/city 
-population_5_years_ago: population of town/city 5 years ago                  
-schools_in_area: number of schools in the town/city                    
-public_transit_score: measure of the availability of public transportation in the surrounding area (higher score corresponds to higher transportation availability)              
-crime_score: measure of the amount of crime in the surrounding area (higher score corresponds to higher crime rates)                        
-culture_score: measure of the quality of culture/lifestyle in the surrounding area (higher score corresponds to higher cultural quality)                      
-average_neighborhood_price: average price of similar properties in the area                          
++ area_type: type of surrounding area (suburban, rural, or urban)
++ current_population" .= current population of town/city 
++ population_5_years_ago: population of town/city 5 years ago                  
++ schools_in_area: number of schools in the town/city                    
++ public_transit_score: measure of the availability of public transportation in the surrounding area (higher score corresponds to higher transportation availability)              
++ crime_score: measure of the amount of crime in the surrounding area (higher score corresponds to higher crime rates)                  
++ culture_score: measure of the quality of culture/lifestyle in the surrounding area (higher score corresponds to higher cultural quality)                      
++ average_neighborhood_price: average price of similar properties in the area                          
 
 #### Condition               
 damage_code: a designation of any serious damage affecting the property (fire damage, flood, mold, etc.) 
